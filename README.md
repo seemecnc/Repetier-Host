@@ -21,3 +21,6 @@ Read the wiki at [http://www.repetier.com/documentation/repetier-host/](http://w
 # Installation:
 
 [http://www.repetier.com/documentation/repetier-host/rh-installation-and-configuration/](http://www.repetier.com/documentation/repetier-host/rh-installation-and-configuration/)
+
+
+# Visit seemecnc.com for documentation under the SUPPORT menu tab SUPPORT
